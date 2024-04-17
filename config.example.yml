@@ -1,0 +1,11 @@
+logType: json
+lokiUrl:  http://localhost:8081
+adminUser:
+  username: admin
+
+lokiBasicAuth:
+  enabled: true
+  username: loki
+  password: loki
+
+

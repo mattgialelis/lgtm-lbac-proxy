@@ -1,0 +1,33 @@
+/tmp
+
+# Binaries, plugins, libs
+**/*.a
+**/*.so
+**/*.dll
+**/*.dylib
+**/*.exe
+**/*.test
+
+# Output directories
+/bin/
+/obj/
+/dist/
+
+# Dependency directories
+/vendor/
+/Godeps/
+
+# IDEs and editors
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
