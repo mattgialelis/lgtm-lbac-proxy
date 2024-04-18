@@ -1,6 +1,15 @@
 # lgtm-rbac-proxy
 
 
+## Docker image
+
+Hosted in Dockerhub: https://hub.docker.com/repository/docker/mattgialelis/lgtm-lbac-proxy
+
+```
+mattgialelis/lgtm-lbac-proxy:latest
+```
+
+
 ## Env vars
 
 | Environment Variable  | Description                                                                                                                                                                                                                                                                                             | Required |
